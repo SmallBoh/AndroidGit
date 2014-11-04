@@ -7,7 +7,8 @@ import android.support.v4.app.FragmentActivity;
 
 
 public class MainActivity extends FragmentActivity{
-
+	private String name;
+	
 	@Override
 	protected void onCreate(Bundle arg0) {
 		// TODO Auto-generated method stub
