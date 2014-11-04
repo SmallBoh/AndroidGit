@@ -8,7 +8,7 @@ import android.widget.ImageView;
 
 
 public class MainActivity extends FragmentActivity{
-
+	private int name;
 	@Override
 	protected void onCreate(Bundle arg0) {
 		// TODO Auto-generated method stub
